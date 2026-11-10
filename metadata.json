@@ -1,0 +1,6 @@
+{
+  "name": "OncoFusion - Pan-Cancer Multi-Omics Survival Prediction",
+  "description": "Multi-modal machine learning platform combining clinical, mRNA, microRNA, DNA methylation, CNV, and histopathology data to benchmark survival prediction, multiple kernel learning, Bayesian Cox models, and Kaplan-Meier risk stratification across TCGA cohorts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
