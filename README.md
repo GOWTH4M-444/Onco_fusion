@@ -1,17 +1,35 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=190&section=header&text=OncoFusion&fontSize=64&fontColor=F3E3DA&animation=fadeIn&fontAlignY=38&desc=Clinical-Grade%20Pan-Cancer%20Multi-Omics%20Survival%20Prediction&descSize=18&descAlignY=60" alt="OncoFusion" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2D2926,50:A6634B,100:5B7065&height=250&section=header&text=OncoFusion&fontSize=74&fontColor=FAF7F2&animation=twinkling&fontAlignY=35&desc=Pan-Cancer%20Multi-Omics%20Survival%20Prediction%20%26%20Precision%20Oncology&descSize=20&descAlignY=58" alt="OncoFusion" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A6634B&center=true&vCenter=true&width=780&lines=Clinical-Grade+Pan-Cancer+Multi-Omics+Survival+Prediction;Bridging+the+%2B15.1%25+C-Index+Concordance+Gap;Real-Time+60+FPS+Three.js+WebGL+Molecular+Showcase;Clinical+Staging+%2B+mRNA+%2B+microRNA+%2B+DNA+Methylation" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A6634B&center=true&vCenter=true&repeat=true&width=900&height=50&lines=%F0%9F%A7%AC+Clinical+Staging+%2B+mRNA+%2B+microRNA+%2B+Methylation;%F0%9F%93%88+Bridging+the+%2B15.1%25+C-Index+Concordance+Gap;%E2%9A%A1+Real-Time+60+FPS+Three.js+WebGL+Showcase;%F0%9F%94%92+MGMT+CpG+Lock+%E2%80%A2+HR+0.55;%F0%9F%8E%AF+8+TCGA+Pan-Cancer+Cohorts+%E2%80%A2+17%2F17+Tests+Passing" alt="Typing animation" />
 
-### **Clinical-Grade Pan-Cancer Multi-Omics Survival Prediction & Precision Oncology Platform**
+<br/>
+
 *Uniting Clinical Staging, Active mRNA Transcriptomics, microRNA Volume Dials, and Epigenetic DNA Methylation Locks into a Unified Prognostic Survival Core.*
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=800&color=5B7065&center=true&vCenter=true&width=780&lines=%F0%9F%93%8A+C-INDEX+0.785;%F0%9F%93%89+BRIER+SCORE+0.138;%E2%9A%A0%EF%B8%8F+HAZARD+RATIO+4.42x;%F0%9F%A7%AC+MGMT+CpG+Lock+%E2%80%A2+HR+0.55" alt="Live metrics" />
-</p>
+<br/>
+
+
+
+![C-Index](https://img.shields.io/badge/C--INDEX-0.785-A6634B?style=for-the-badge&labelColor=2D2926)
+
+
+
+
+![Brier](https://img.shields.io/badge/BRIER-0.138-5B7065?style=for-the-badge&labelColor=2D2926)
+
+
+
+
+![Hazard](https://img.shields.io/badge/HAZARD-4.42x-7C6578?style=for-the-badge&labelColor=2D2926)
+
+
+
+
+![Gap](https://img.shields.io/badge/CONCORDANCE_GAP-%2B15.1%25-8C7B6B?style=for-the-badge&labelColor=2D2926)
+
+
 
 [
 
@@ -44,9 +62,9 @@
 
 ](./LICENSE)
 
----
+<br/>
 
-[**Explore Interactive Demo**](#3-interactive-3d-webgl-engine-showcase) • [**Architecture & UX**](#2-design--architecture-philosophy) • [**Analytical Modules**](#4-analytical-modules--features) • [**Quick Start**](#6-quick-start--local-setup) • [**Data Provenance & Citations**](#7-data-provenance-citations--compliance)
+[**🚀 Interactive Demo**](#3-interactive-3d-webgl-engine-showcase) &nbsp;•&nbsp; [**🏛️ Architecture & UX**](#2-design--architecture-philosophy) &nbsp;•&nbsp; [**🧪 Analytical Modules**](#4-analytical-modules--features) &nbsp;•&nbsp; [**⚙️ Quick Start**](#6-quick-start--local-setup) &nbsp;•&nbsp; [**📚 Data & Citations**](#7-data-provenance-citations--compliance)
 
 </div>
 
@@ -54,86 +72,147 @@
 
 ## 1. Visual Teaser & Platform Overview
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=A6634B&center=true&vCenter=true&width=780&lines=3D+Showcase+Mode+1%3A+Multimodal+Convergence;3D+Showcase+Mode+2%3A+Epigenetic+Helix;3D+Showcase+Mode+3%3A+TME+Graph;Hover%2FClick+a+3D+Node+%E2%86%92+MGMT+CpG+Lock+%E2%80%A2+HR+0.55" alt="3D showcase modes" />
-</p>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1100&color=5B7065&center=true&vCenter=true&repeat=true&width=900&height=40&lines=Mode+1+%E2%80%A2+Multimodal+Bezier+Convergence;Mode+2+%E2%80%A2+Epigenetic+Double-Helix;Mode+3+%E2%80%A2+Tumor+Microenvironment+Graph;Hover+or+click+any+3D+node+to+open+its+clinical+dossier" alt="3D modes" />
+</div>
 
-> **UI Showcase & Cinematic 3D Viewport**
->
-> ```text
-> ┌──────────────────────────────────────────────────────────────────────────────────────────────┐
-> │  [3D Showcase Mode: (•) 1. Multimodal Convergence  ( ) 2. Epigenetic Helix  ( ) 3. TME Graph] │
-> │                                                                                              │
-> │  ┌──────────────────────────────────────────┐          .  *   .   ╭───────────────╮          │
-> │  │ ✨ PRECISION ONCOLOGY DECISION SUPPORT   │        *    ╭───────┴───────╮   *   │          │
-> │  │                                          │      .    ╭─┤   mRNA /      ├─╮     │          │
-> │  │ Uniting Clinical Staging & Molecular     │           │ │  Methylation  │ │   ──┼──> 3D    │
-> │  │ Signals into One Survival Forecast       │           │ │  ╔═════════╗  │ │     │   WebGL  │
-> │  │                                          │           │ ╰──╢ PATIENT ╟──╯ │     │   Canvas │
-> │  │ ┌──────────┐ ┌──────────┐ ┌──────────┐   │           ╰────╢  CORE   ╟────╯     │          │
-> │  │ │ C-INDEX  │ │  BRIER   │ │  HAZARD  │   │                ╚═════════╝          │          │
-> │  │ │  0.785   │ │  0.138   │ │  4.42x   │   │        ┌─────────────────────────┐  │          │
-> │  │ └──────────┘ └──────────┘ └──────────┘   │        │ Hover/Click 3D Node     │  │          │
-> │  │ [ Launch Workspace → ] [ 3D Balancer ]   │        │ MGMT CpG Lock • HR 0.55 │  │          │
-> │  └──────────────────────────────────────────┘        └─────────────────────────┘  │          │
-> └──────────────────────────────────────────────────────────────────────────────────────────────┘
-> ```
-> *(Replace with `/docs/assets/oncofusion-hero-preview.gif` or high-resolution screenshot in production deployments.)*
+### 🔬 How OncoFusion Thinks
 
-### Key Platform Differentiators
+```mermaid
+flowchart LR
+    A["🩺 <b>Clinical Staging</b><br/>Macro Health"]:::clin --> F
+    B["🧬 <b>mRNA</b><br/>Active Instructions"]:::mrna --> F
+    C["🎚️ <b>microRNA</b><br/>Volume Dials"]:::mir --> F
+    D["🔒 <b>DNA Methylation</b><br/>Epigenetic Locks"]:::meth --> F
+    F{{"⚡ <b>Gated Intermediate<br/>Multimodal Fusion</b>"}}:::fuse ==> S["📈 <b>Survival Forecast</b><br/>C-index 0.785"]:::out
 
-- **Progressive Disclosure UX:** Opens as an uninterrupted, full-bleed scientific briefing deck with the global navigation rail intentionally hidden—revealing the analytical tab bar only when transitioning into workspace modules.
-- **Real-Time Multi-Mode WebGL Biometrics:** Interactive 60 FPS Three.js showcase featuring cubic Bezier particle convergence, a 3D double-stranded epigenetic DNA helix, and a spatial tumor microenvironment graph with raycasted clinical dossiers.
-- **Multimodal Risk Stratification:** Bridges the **+15.1% Concordance Index gap** between traditional clinical staging (`C-index 0.634`) and gated intermediate multimodal fusion (`C-index 0.785`) across 8 primary TCGA cancer cohorts.
-- **Plain-English Clinical Translation:** Translates dense biostatistical and genomic terminology into clear, actionable clinical insights (*Harrell's C-Index* $\rightarrow$ **Ranking Accuracy**, *Right-Censoring* $\rightarrow$ **Incomplete Follow-Up**, *Hazard Ratio* $\rightarrow$ **Relative Risk Multiplier**).
+    classDef clin fill:#2D2926,stroke:#A6634B,stroke-width:2px,color:#FAF7F2
+    classDef mrna fill:#A6634B,stroke:#2D2926,stroke-width:2px,color:#FFFFFF
+    classDef mir fill:#5B7065,stroke:#2D2926,stroke-width:2px,color:#FFFFFF
+    classDef meth fill:#7C6578,stroke:#2D2926,stroke-width:2px,color:#FFFFFF
+    classDef fuse fill:#FAF7F2,stroke:#A6634B,stroke-width:3px,color:#2D2926
+    classDef out fill:#A6634B,stroke:#FAF7F2,stroke-width:3px,color:#FFFFFF
+```
+
+### 📊 The +15.1% Concordance Gap
+
+| Model | C-Index | Performance |
+|:------|:-------:|:------------|
+| 🩺 Clinical staging only | `0.634` | `██████████████░░░░░░░░░░░░` |
+| ⚡ **OncoFusion multimodal fusion** | **`0.785`** | `██████████████████████░░░░` **🔥 +15.1%** |
+
+<details>
+<summary><b>🖥️ Click to expand the UI showcase wireframe</b></summary>
+
+```text
+┌──────────────────────────────────────────────────────────────────────────────────────────────┐
+│  [3D Showcase Mode: (•) 1. Multimodal Convergence  ( ) 2. Epigenetic Helix  ( ) 3. TME Graph] │
+│                                                                                              │
+│  ┌──────────────────────────────────────────┐          .  *   .   ╭───────────────╮          │
+│  │ ✨ PRECISION ONCOLOGY DECISION SUPPORT   │        *    ╭───────┴───────╮   *   │          │
+│  │                                          │      .    ╭─┤   mRNA /      ├─╮     │          │
+│  │ Uniting Clinical Staging & Molecular     │           │ │  Methylation  │ │   ──┼──> 3D    │
+│  │ Signals into One Survival Forecast       │           │ │  ╔═════════╗  │ │     │   WebGL  │
+│  │                                          │           │ ╰──╢ PATIENT ╟──╯ │     │   Canvas │
+│  │ ┌──────────┐ ┌──────────┐ ┌──────────┐   │           ╰────╢  CORE   ╟────╯     │          │
+│  │ │ C-INDEX  │ │  BRIER   │ │  HAZARD  │   │                ╚═════════╝          │          │
+│  │ │  0.785   │ │  0.138   │ │  4.42x   │   │        ┌─────────────────────────┐  │          │
+│  │ └──────────┘ └──────────┘ └──────────┘   │        │ Hover/Click 3D Node     │  │          │
+│  │ [ Launch Workspace → ] [ 3D Balancer ]   │        │ MGMT CpG Lock • HR 0.55 │  │          │
+│  └──────────────────────────────────────────┘        └─────────────────────────┘  │          │
+└──────────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+*(Replace with `/docs/assets/oncofusion-hero-preview.gif` or a high-resolution screenshot in production deployments.)*
+
+</details>
+
+### ✨ Key Platform Differentiators
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎬 Progressive Disclosure UX
+Opens as an uninterrupted, full-bleed scientific briefing deck with the global navigation rail intentionally hidden, revealing the analytical tab bar only when you enter workspace modules.
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚡ Real-Time WebGL Biometrics
+Interactive 60 FPS Three.js showcase: cubic Bezier particle convergence, a 3D double-stranded epigenetic DNA helix, and a spatial tumor microenvironment graph with raycasted clinical dossiers.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎯 Multimodal Risk Stratification
+Bridges the **+15.1% Concordance Index gap** between traditional clinical staging (`C-index 0.634`) and gated intermediate multimodal fusion (`C-index 0.785`) across **8 primary TCGA cancer cohorts**.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🗣️ Plain-English Clinical Translation
+Dense biostatistical and genomic terminology becomes clear, actionable clinical insight (see the table below).
+
+</td>
+</tr>
+</table>
+
+| 🔬 Technical Term | ➡️ | 💬 What Clinicians See |
+|:---|:---:|:---|
+| Harrell's C-Index | ➡️ | **Ranking Accuracy** |
+| Right-Censoring | ➡️ | **Incomplete Follow-Up** |
+| Hazard Ratio | ➡️ | **Relative Risk Multiplier** |
 
 ---
 
 ## 2. Design & Architecture Philosophy
 
-### Progressive Disclosure UX Rationale
+### 🧭 Progressive Disclosure UX Rationale
 
-Clinical decision support and bioinformatics platforms frequently suffer from cognitive overload—exposing dozens of competing tabs, hyperparameters, and dense tables on first load. **OncoFusion** enforces a strict **Progressive Disclosure Architecture**:
+Clinical decision support and bioinformatics platforms frequently suffer from cognitive overload, exposing dozens of competing tabs, hyperparameters, and dense tables on first load. **OncoFusion** enforces a strict **Progressive Disclosure Architecture**:
 
 1. **Stage 1 — Immersive Scientific Briefing (`activeTab === 'welcome'`):**
    The top `<Navbar />` is completely unmounted on the landing view. Clinicians and researchers are greeted by a full-screen, interactive 3D WebGL canvas paired with translucent warm-linen editorial glass cards, animatic multi-omics badges, and a 6-card module launchpad.
 2. **Stage 2 — Contextual Workspace Reveal (`activeTab !== 'welcome'`):**
-   Clicking **"Launch Workspace"** or any of the 6 constructive module preview cards transitions the user into the analytical workspace and automatically mounts the sticky horizontal navigation rail, complete with cohort filtering and a **`← Back to Overview`** trigger.
+   Clicking **"Launch Workspace"** or any of the 6 module preview cards transitions the user into the analytical workspace and automatically mounts the sticky horizontal navigation rail, complete with cohort filtering and a **`← Back to Overview`** trigger.
 
-### User Journey & State Flow Diagram
+### 🔀 User Journey & State Flow
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────────────┐
-│                        STAGE 1: IMMERSIVE BRIEFING DECK                             │
-│                   (Top Navigation Bar Hidden • Zero Visual Clutter)                 │
-│                                                                                     │
-│   ┌─────────────────────────────────────┐    ┌──────────────────────────────────┐   │
-│   │  Full-Page 3D Three.js WebGL Stage  │◄──►│  Plain-English Omics Explainer   │   │
-│   │  • Mode 1: Bezier Convergence Core  │    │  • Macro Health (Clinical)       │   │
-│   │  • Mode 2: Epigenetic DNA Helix     │    │  • Active Instructions (mRNA)    │   │
-│   │  • Mode 3: Microenvironment Graph   │    │  • Volume Dials (microRNA)       │   │
-│   └──────────────────┬──────────────────┘    │  • Epigenetic Locks (Methylation)│   │
-│                      │                       └─────────────────┬────────────────┘   │
-│                      ▼                                         ▼                    │
+```mermaid
+flowchart TD
+    subgraph S1["🎬 STAGE 1 — Immersive Briefing Deck · Navbar hidden · Zero clutter"]
+        direction LR
+        W["🌌 <b>Full-Page Three.js WebGL Stage</b><br/>Mode 1: Bezier Convergence Core<br/>Mode 2: Epigenetic DNA Helix<br/>Mode 3: Microenvironment Graph"]
+        E["📖 <b>Plain-English Omics Explainer</b><br/>Macro Health (Clinical)<br/>Active Instructions (mRNA)<br/>Volume Dials (microRNA)<br/>Epigenetic Locks (Methylation)"]
+        W <--> E
+    end
+    subgraph S2["🧪 STAGE 2 — Analytical Workspace · Sticky nav rail mounted"]
+        direction LR
+        N["🧭 <b>Tab Bar + Cohort Filter</b>"]
+        B["⬅️ <b>Back to Overview</b>"]
+        N --- B
+    end
+    S1 ==>|"🚀 Launch Workspace / module card"| S2
+    S2 -.->|"↩ Back to Overview"| S1
+
+    style S1 fill:#FAF7F2,stroke:#A6634B,stroke-width:2px,color:#2D2926
+    style S2 fill:#2D2926,stroke:#5B7065,stroke-width:2px,color:#FAF7F2
+    style W fill:#A6634B,stroke:#2D2926,color:#FFFFFF
+    style E fill:#5B7065,stroke:#2D2926,color:#FFFFFF
+    style N fill:#7C6578,stroke:#FAF7F2,color:#FFFFFF
+    style B fill:#8C7B6B,stroke:#FAF7F2,color:#FFFFFF
 ```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer" alt="" />MB**). | Real-time `THREE.Raycaster` hit detection updates the floating clinical card with actionable therapy clues. |
-
-### WebGL Performance & Shader Specifications
-
-- **60 FPS Animation Loop:** Uses `requestAnimationFrame` with mutable React refs (`useRef`) so mode switching, stream filtering, and pause/spin toggles occur instantaneously without WebGL context recreation.
-- **Damped Orbit & Cursor Parallax:** Combines pointer-drag spherical rotation with `0.075` linear interpolation damping and normalized device coordinate (`NDC`) cursor-tracking parallax tilt.
-- **Responsive Viewport Adaptation:** Bound to a native `ResizeObserver` that dynamically recalculates camera aspect ratios and shifts the 3D stage offset (`x = +2.15` on desktop viewports $\ge 1024\text{px}$) to preserve typographic breathing room.
-- **Capped Pixel Ratio:** Enforces `Math.min(window.devicePixelRatio, 1.5)` to guarantee smooth frame rates on high-DPI Retina displays.
 
 ---
 
-## 4. Analytical Modules & Features
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1500&color=A6634B&center=true&vCenter=true&repeat=true&width=900&height=40&lines=Built+for+clinicians.+Powered+by+multi-omics.;One+unified+prognostic+survival+core." alt="Tagline" />
+</div>
 
-### 📊 4.1 Pan-Cancer Cohort Benchmark & Biomarker Attribution
-- **Cross-Cancer Validation:** Evaluates 10 survival architectures across 8 TCGA cohorts (`ALL` Pooled Pan-Cancer, `BRCA`, `LUAD`, `GBM`, `SKCM`, `KIRC`, `COAD`, `OV`, `LIHC`).
-- **Architecture Leaderboard:** Compares Single-Modality Baselines (*Clinical Cox-PH*, *mRNA Ridge Cox*, *microRNA Signature*, *Methylation Clock*) against Multimodal Fusion paradigms (*Early Concatenation*, *Group Elastic-Net*, *Multiple Kernel Learning*, *Bayesian Hierarchical*, *Late Stacking*, and *Gated Multimodal Deep Attention*).
-- **Biomarker Feature Importance Rankings:** Interactive attribution visualizer ranking 16+ canonical biomarkers by effect magnitude, filterable by omics modality and risk direction (**Adverse `+Risk`** vs. **Protective `-Risk`**) with expandable biological mechanism dossiers.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5B7065,50:A6634B,100:2D2926&height=120&section=footer" alt="" /> `+Risk`** vs. **Protective `-Risk`**) with expandable biological mechanism dossiers.
 
 ### ⚖️ 4.2 Side-by-Side Survival Model Comparison
 - **Multi-Model Evaluation Matrix:** Allows clinicians and data scientists to toggle up to 3 model families side-by-side (*Cox Proportional Hazards*, *DeepSurv Intermediate Neural Fusion*, *Random Survival Forest*, *Gradient Boosting CoxBoost*, and *Multiple Kernel Learning*).
