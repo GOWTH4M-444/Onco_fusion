@@ -1,70 +1,31 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2D2926,50:A6634B,100:5B7065&height=250&section=header&text=OncoFusion&fontSize=74&fontColor=FAF7F2&animation=twinkling&fontAlignY=35&desc=Pan-Cancer%20Multi-Omics%20Survival%20Prediction%20%26%20Precision%20Oncology&descSize=20&descAlignY=58" alt="OncoFusion" />
+<img src="./assets/hero.svg" alt="OncoFusion — animated DNA helix banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A6634B&center=true&vCenter=true&repeat=true&width=900&height=50&lines=%F0%9F%A7%AC+Clinical+Staging+%2B+mRNA+%2B+microRNA+%2B+Methylation;%F0%9F%93%88+Bridging+the+%2B15.1%25+C-Index+Concordance+Gap;%E2%9A%A1+Real-Time+60+FPS+Three.js+WebGL+Showcase;%F0%9F%94%92+MGMT+CpG+Lock+%E2%80%A2+HR+0.55;%F0%9F%8E%AF+8+TCGA+Pan-Cancer+Cohorts+%E2%80%A2+17%2F17+Tests+Passing" alt="Typing animation" />
+<img src="./assets/ticker.svg" alt="Clinical Staging + mRNA + microRNA + Methylation" width="100%" />
 
-<br/>
+<em>Uniting Clinical Staging, Active mRNA Transcriptomics, microRNA Volume Dials, and Epigenetic DNA Methylation Locks into a Unified Prognostic Survival Core.</em>
 
-*Uniting Clinical Staging, Active mRNA Transcriptomics, microRNA Volume Dials, and Epigenetic DNA Methylation Locks into a Unified Prognostic Survival Core.*
+<br/><br/>
 
-<br/>
-
-
-
-![C-Index](https://img.shields.io/badge/C--INDEX-0.785-A6634B?style=for-the-badge&labelColor=2D2926)
-
-
-
-
-![Brier](https://img.shields.io/badge/BRIER-0.138-5B7065?style=for-the-badge&labelColor=2D2926)
-
-
-
-
-![Hazard](https://img.shields.io/badge/HAZARD-4.42x-7C6578?style=for-the-badge&labelColor=2D2926)
-
-
-
-
-![Gap](https://img.shields.io/badge/CONCORDANCE_GAP-%2B15.1%25-8C7B6B?style=for-the-badge&labelColor=2D2926)
-
-
-
-[
-
-![Next.js](https://img.shields.io/badge/Next.js_/_React-19.0-2D2926?style=for-the-badge&logo=next.js&logoColor=FAF7F2)
-
-](https://nextjs.org/)
-[
-
-![TypeScript](https://img.shields.io/badge/TypeScript-5.8-A6634B?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
-
-](https://www.typescriptlang.org/)
-[
-
-![Three.js WebGL](https://img.shields.io/badge/Three.js-WebGL_2.0-5B7065?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF)
-
-](https://threejs.org/)
-[
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4.0-8C7B6B?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)
-
-](https://tailwindcss.com/)
-[
-
-![TCGA Verified](https://img.shields.io/badge/TCGA_Atlas-8_Pan--Cancer_Cohorts-7C6578?style=for-the-badge)
-
-](https://www.cancer.gov/ccg/research/genome-sequencing/tcga)
-[
-
-![License](https://img.shields.io/badge/License-Apache_2.0_/_MIT-E6E1D6?style=for-the-badge&labelColor=2D2926&color=A6634B)
-
-](./LICENSE)
+<img src="./assets/stats.svg" alt="C-index 0.785 · Brier 0.138 · Hazard 4.42x · Gap +15.1%" width="100%" />
 
 <br/>
 
-[**🚀 Interactive Demo**](#3-interactive-3d-webgl-engine-showcase) &nbsp;•&nbsp; [**🏛️ Architecture & UX**](#2-design--architecture-philosophy) &nbsp;•&nbsp; [**🧪 Analytical Modules**](#4-analytical-modules--features) &nbsp;•&nbsp; [**⚙️ Quick Start**](#6-quick-start--local-setup) &nbsp;•&nbsp; [**📚 Data & Citations**](#7-data-provenance-citations--compliance)
+<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js_/_React-19.0-2D2926?style=for-the-badge&logo=next.js&logoColor=FAF7F2" alt="Next.js" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5.8-A6634B?style=for-the-badge&logo=typescript&logoColor=FFFFFF" alt="TypeScript" /></a>
+<a href="https://threejs.org/"><img src="https://img.shields.io/badge/Three.js-WebGL_2.0-5B7065?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF" alt="Three.js" /></a>
+<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-v4.0-8C7B6B?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" alt="Tailwind" /></a>
+<a href="https://www.cancer.gov/ccg/research/genome-sequencing/tcga"><img src="https://img.shields.io/badge/TCGA_Atlas-8_Pan--Cancer_Cohorts-7C6578?style=for-the-badge" alt="TCGA" /></a>
+<a href="./LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0_/_MIT-E6E1D6?style=for-the-badge&labelColor=2D2926&color=A6634B" alt="License" /></a>
+
+<br/><br/>
+
+<a href="#3-interactive-3d-webgl-engine-showcase"><b>🚀 Interactive Demo</b></a> &nbsp;•&nbsp;
+<a href="#2-design--architecture-philosophy"><b>🏛️ Architecture & UX</b></a> &nbsp;•&nbsp;
+<a href="#4-analytical-modules--features"><b>🧪 Analytical Modules</b></a> &nbsp;•&nbsp;
+<a href="#6-quick-start--local-setup"><b>⚙️ Quick Start</b></a> &nbsp;•&nbsp;
+<a href="#7-data-provenance-citations--compliance"><b>📚 Data & Citations</b></a>
 
 </div>
 
@@ -73,7 +34,7 @@
 ## 1. Visual Teaser & Platform Overview
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1100&color=5B7065&center=true&vCenter=true&repeat=true&width=900&height=40&lines=Mode+1+%E2%80%A2+Multimodal+Bezier+Convergence;Mode+2+%E2%80%A2+Epigenetic+Double-Helix;Mode+3+%E2%80%A2+Tumor+Microenvironment+Graph;Hover+or+click+any+3D+node+to+open+its+clinical+dossier" alt="3D modes" />
+<img src="./assets/teaser.svg" alt="Animated platform teaser: orbiting mRNA, miRNA and methylation layers around a pulsing patient core" width="100%" />
 </div>
 
 ### 🔬 How OncoFusion Thinks
@@ -102,7 +63,7 @@ flowchart LR
 | ⚡ **OncoFusion multimodal fusion** | **`0.785`** | `██████████████████████░░░░` **🔥 +15.1%** |
 
 <details>
-<summary><b>🖥️ Click to expand the UI showcase wireframe</b></summary>
+<summary><b>🖥️ Expand the UI showcase wireframe</b></summary>
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────────────────────────────┐
@@ -122,8 +83,6 @@ flowchart LR
 │  └──────────────────────────────────────────┘        └─────────────────────────┘  │          │
 └──────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
-
-*(Replace with `/docs/assets/oncofusion-hero-preview.gif` or a high-resolution screenshot in production deployments.)*
 
 </details>
 
@@ -208,8 +167,7 @@ flowchart TD
 
 ---
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1500&color=A6634B&center=true&vCenter=true&repeat=true&width=900&height=40&lines=Built+for+clinicians.+Powered+by+multi-omics.;One+unified+prognostic+survival+core." alt="Tagline" />
+<img src="./assets/footer.svg" alt="" width="100%" />rognostic+survival+core." alt="Tagline" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5B7065,50:A6634B,100:2D2926&height=120&section=footer" alt="" /> `+Risk`** vs. **Protective `-Risk`**) with expandable biological mechanism dossiers.
