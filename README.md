@@ -1,16 +1,48 @@
 <div align="center">
 
-# 🧬 OncoFusion
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=190&section=header&text=OncoFusion&fontSize=64&fontColor=F3E3DA&animation=fadeIn&fontAlignY=38&desc=Clinical-Grade%20Pan-Cancer%20Multi-Omics%20Survival%20Prediction&descSize=18&descAlignY=60" alt="OncoFusion" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A6634B&center=true&vCenter=true&width=780&lines=Clinical-Grade+Pan-Cancer+Multi-Omics+Survival+Prediction;Bridging+the+%2B15.1%25+C-Index+Concordance+Gap;Real-Time+60+FPS+Three.js+WebGL+Molecular+Showcase;Clinical+Staging+%2B+mRNA+%2B+microRNA+%2B+DNA+Methylation" alt="Typing SVG" />
+</p>
 
 ### **Clinical-Grade Pan-Cancer Multi-Omics Survival Prediction & Precision Oncology Platform**
 *Uniting Clinical Staging, Active mRNA Transcriptomics, microRNA Volume Dials, and Epigenetic DNA Methylation Locks into a Unified Prognostic Survival Core.*
 
-[![Next.js](https://img.shields.io/badge/Next.js_/_React-19.0-2D2926?style=for-the-badge&logo=next.js&logoColor=FAF7F2)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.8-A6634B?style=for-the-badge&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/)
-[![Three.js WebGL](https://img.shields.io/badge/Three.js-WebGL_2.0-5B7065?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF)](https://threejs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4.0-8C7B6B?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)](https://tailwindcss.com/)
-[![TCGA Verified](https://img.shields.io/badge/TCGA_Atlas-8_Pan--Cancer_Cohorts-7C6578?style=for-the-badge)](https://www.cancer.gov/ccg/research/genome-sequencing/tcga)
-[![License](https://img.shields.io/badge/License-Apache_2.0_/_MIT-E6E1D6?style=for-the-badge&labelColor=2D2926&color=A6634B)](./LICENSE)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=800&color=5B7065&center=true&vCenter=true&width=780&lines=%F0%9F%93%8A+C-INDEX+0.785;%F0%9F%93%89+BRIER+SCORE+0.138;%E2%9A%A0%EF%B8%8F+HAZARD+RATIO+4.42x;%F0%9F%A7%AC+MGMT+CpG+Lock+%E2%80%A2+HR+0.55" alt="Live metrics" />
+</p>
+
+[
+
+![Next.js](https://img.shields.io/badge/Next.js_/_React-19.0-2D2926?style=for-the-badge&logo=next.js&logoColor=FAF7F2)
+
+](https://nextjs.org/)
+[
+
+![TypeScript](https://img.shields.io/badge/TypeScript-5.8-A6634B?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
+
+](https://www.typescriptlang.org/)
+[
+
+![Three.js WebGL](https://img.shields.io/badge/Three.js-WebGL_2.0-5B7065?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF)
+
+](https://threejs.org/)
+[
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4.0-8C7B6B?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)
+
+](https://tailwindcss.com/)
+[
+
+![TCGA Verified](https://img.shields.io/badge/TCGA_Atlas-8_Pan--Cancer_Cohorts-7C6578?style=for-the-badge)
+
+](https://www.cancer.gov/ccg/research/genome-sequencing/tcga)
+[
+
+![License](https://img.shields.io/badge/License-Apache_2.0_/_MIT-E6E1D6?style=for-the-badge&labelColor=2D2926&color=A6634B)
+
+](./LICENSE)
 
 ---
 
@@ -21,6 +53,10 @@
 ---
 
 ## 1. Visual Teaser & Platform Overview
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=A6634B&center=true&vCenter=true&width=780&lines=3D+Showcase+Mode+1%3A+Multimodal+Convergence;3D+Showcase+Mode+2%3A+Epigenetic+Helix;3D+Showcase+Mode+3%3A+TME+Graph;Hover%2FClick+a+3D+Node+%E2%86%92+MGMT+CpG+Lock+%E2%80%A2+HR+0.55" alt="3D showcase modes" />
+</p>
 
 > **UI Showcase & Cinematic 3D Viewport**
 >
@@ -79,40 +115,9 @@ Clinical decision support and bioinformatics platforms frequently suffer from co
 │   └──────────────────┬──────────────────┘    │  • Epigenetic Locks (Methylation)│   │
 │                      │                       └─────────────────┬────────────────┘   │
 │                      ▼                                         ▼                    │
-│   ┌─────────────────────────────────────────────────────────────────────────────┐   │
-│   │             ONE-CLICK CONSTRUCTIVE MODULE LAUNCHER CARDS (6x)               │   │
-│   └──────────────────────────────────────┬──────────────────────────────────────┘   │
-└──────────────────────────────────────────┼──────────────────────────────────────────┘
-                                           │
-                          User clicks "Launch Workspace"
-                             or any Module Preview Card
-                                           │
-                                           ▼
-┌─────────────────────────────────────────────────────────────────────────────────────┐
-│                     STAGE 2: PRECISION ONCOLOGY WORKSPACE                           │
-│           (Sticky Horizontal Navigation Rail & Cohort Selector Revealed)            │
-│                                                                                     │
-│  ┌───────────────────────────────────────────────────────────────────────────────┐  │
-│  │ [← Back to Overview] | Benchmark | Model Compare | 3D Fusion | KM | Patients  │  │
-│  └───────┬────────────────────┬─────────────┬────────────┬─────────┬─────────┬───┘  │
-│          │                    │             │            │         │         │      │
-│          ▼                    ▼             ▼            ▼         ▼         ▼      │
-│    [Return to 3D]       [10 Models &]  [Cox/DeepSurv] [Weight]  [Step KM] [1/3/5Yr] │
-│    [Front Page  ]       [Biomarkers ]  [RSF/MKL     ] [Sliders] [Curves ] [Simul. ] │
-└─────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-## 3. Interactive 3D WebGL Engine Showcase
-
-The front-page hero and dedicated 3D workspaces are powered by a custom **Three.js WebGL 2.0** rendering engine engineered for warm editorial aesthetics and real-time clinical inspection. Users can toggle seamlessly between three spatial representations:
-
-| 3D Mode | Spatial Geometry & Physics | Clinical & Biological Meaning | Interactive Raycaster Behavior |
-| :--- | :--- | :--- | :--- |
-| **1. Multimodal Convergence Core** *(Default)* | Volumetric icosahedral core + translucent aura shell + geodesic cage surrounded by 4 tilted orbital rings and **`CubicBezierCurve3`** inward particle streams. | Illustrates how **Clinical** (`#8C7B6B`), **mRNA** (`#5B7065`), **microRNA** (`#7C6578`), and **DNA Methylation** (`#A6634B`) streams compress into a single patient risk score. | Clicking stream filter pills isolates that ring's opacity (`0.88`) and reveals modality-specific C-index metrics. |
-| **2. Molecular Epigenetic Helix** | Dual **`CatmullRomCurve3`** sugar-phosphate backbone tubes connected by base-pair cylinder rungs, clamped with octahedron CpG locks and spherical TF hubs. | Visualizes how **MGMT** and **CDKN2A** promoter hypermethylation locks (`#A6634B`) and **TP53 / miR-34a** transcription sites (`#5B7065`) regulate gene expression. | Hovering or clicking any CpG lock or transcription hub triggers a 1.38x scale pulse and displays its Hazard Ratio dossier. |
-| **3. Tumor Microenvironment Graph** | 3D spatial force-balanced graph connecting adverse tumor drivers (`#A6634B`) and protective immune infiltrates (`#5B7065`) with traveling synaptic pulses. | Models the biological tug-of-war between rapid proliferation (**MKI67**, **TP53**, **EGFR**) and cytotoxic immune clearance (**CD8A+ T-cells**, **TILs**, **High TMB**). | Real-time `THREE.Raycaster` hit detection updates the floating clinical card with actionable therapy clues. |
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer" alt="" />MB**). | Real-time `THREE.Raycaster` hit detection updates the floating clinical card with actionable therapy clues. |
 
 ### WebGL Performance & Shader Specifications
 
